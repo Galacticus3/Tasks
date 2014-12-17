@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Persons>
+  <Person>
+    <Name>ewer</Name>
+    <Surname>werwer</Surname>
+    <DayOfBirthday>01.01.1985</DayOfBirthday>
+    <Education>serednya</Education>
+    <Profession>yurist</Profession>
+    <Money>3</Money>
+  </Person>
+</Persons>
