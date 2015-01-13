@@ -1,0 +1,5 @@
+E:\ProfectsCatHome\TaskHome\Tasks\ConstData\ConstData\bin\Debug\ConstData.exe.config
+E:\ProfectsCatHome\TaskHome\Tasks\ConstData\ConstData\bin\Debug\ConstData.exe
+E:\ProfectsCatHome\TaskHome\Tasks\ConstData\ConstData\bin\Debug\ConstData.pdb
+E:\ProfectsCatHome\TaskHome\Tasks\ConstData\ConstData\obj\Debug\ConstData.exe
+E:\ProfectsCatHome\TaskHome\Tasks\ConstData\ConstData\obj\Debug\ConstData.pdb

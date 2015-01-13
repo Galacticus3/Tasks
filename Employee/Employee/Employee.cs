@@ -14,8 +14,12 @@ namespace Employee
         private float currPay;
         private int empAge;
         private string empSSN;
+        private static string companyName;
+        private BenefitPackage empBenefits = new BenefitPackage(); // Содержит объект BenefitPackage
+        public double GetBenefitCost() { return empBenefits.ComputePayDeduction(); } // поведение связанное с включенным объектом
         // Конструкторы
         public Employee() { }
+        //static Employee() { companyName = "Intertech Training"; } // статический конструктор, с ним не надо в проге задавать значение для companyName
         public Employee (string name, int age, int id, float pay, string ssn)
         {
             empName = name;
@@ -24,11 +28,26 @@ namespace Employee
             empSSN = ssn;
             currPay = pay;
         }
+        // В Employee вложен класс BenefitPackage2
+        public class BenefitPackage2
+        {
+            // В BenefitPackage2 вложено перечисление (enum BenefitPackageLevel)
+            public enum BenefitPackageLevel
+            {
+                Standart, Gold, Platinum
+            }
+            public double ComputePayDeduction2()
+            {
+                return 125.0;
+            }
+        }
+
         // Члены
         public void GiveBonus(float amount)
         {
             currPay += amount;
         }
+
         public void DisplayStats()
         {
             Console.WriteLine("Name: {0}", empName);
@@ -42,7 +61,7 @@ namespace Employee
         {
             return empName;
         }
-                // Метод изменения (метод set)
+        // Метод изменения (метод set)
         public void SetName(string name)
         {
             // Проверить все недопустимые символы, длину и регистр перед выполнением
@@ -72,7 +91,18 @@ namespace Employee
         public string SocialSecurityNumber
         {
             get { return empSSN; }
-            set { empSSN = value; }
+            protected set { empSSN = value; }
+        }
+        public static string Company
+        {
+            get { return companyName; }
+            set { companyName = value; }
+        }
+        // Представляет объект через специальное свойство
+        public BenefitPackage Benefits
+        {
+            get { return empBenefits; }
+            set { empBenefits = value; }
         }
     }
 }

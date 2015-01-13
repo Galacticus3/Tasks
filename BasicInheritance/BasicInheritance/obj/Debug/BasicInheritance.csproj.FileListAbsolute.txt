@@ -1,0 +1,6 @@
+E:\ProfectsCatHome\TaskHome\Tasks\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+E:\ProfectsCatHome\TaskHome\Tasks\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe
+E:\ProfectsCatHome\TaskHome\Tasks\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.pdb
+E:\ProfectsCatHome\TaskHome\Tasks\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csprojResolveAssemblyReference.cache
+E:\ProfectsCatHome\TaskHome\Tasks\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.exe
+E:\ProfectsCatHome\TaskHome\Tasks\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.pdb

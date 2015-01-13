@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{16984026-F80C-4858-9147-212D0A16BE04}</ProjectGuid>
+    <ProjectGuid>{A2F419C3-1E23-4969-9567-8BBCF4325D71}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Employee</RootNamespace>
-    <AssemblyName>Employee</AssemblyName>
+    <RootNamespace>BasicInheritance</RootNamespace>
+    <AssemblyName>BasicInheritance</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,13 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BenefitPackage.cs" />
-    <Compile Include="Employee.cs" />
-    <Compile Include="Manager.cs" />
+    <Compile Include="Car.cs" />
+    <Compile Include="MiniVan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="PTSalesPerson.cs" />
-    <Compile Include="SalesPerson.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
