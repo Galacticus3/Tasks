@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Employee
 {
-    class Employee
+    abstract class Employee
     {
         // Поля данных
         private string empName;
@@ -43,12 +43,12 @@ namespace Employee
         }
 
         // Члены
-        public void GiveBonus(float amount)
+        public virtual void GiveBonus(float amount)
         {
             currPay += amount;
         }
 
-        public void DisplayStats()
+        public virtual void DisplayStats()
         {
             Console.WriteLine("Name: {0}", empName);
             Console.WriteLine("Age: {0}", empAge);

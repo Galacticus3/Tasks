@@ -1,0 +1,6 @@
+E:\ProfectsCatHome\TaskHome\Tasks\Shapes\Shapes\bin\Debug\Shapes.exe.config
+E:\ProfectsCatHome\TaskHome\Tasks\Shapes\Shapes\bin\Debug\Shapes.exe
+E:\ProfectsCatHome\TaskHome\Tasks\Shapes\Shapes\bin\Debug\Shapes.pdb
+E:\ProfectsCatHome\TaskHome\Tasks\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+E:\ProfectsCatHome\TaskHome\Tasks\Shapes\Shapes\obj\Debug\Shapes.exe
+E:\ProfectsCatHome\TaskHome\Tasks\Shapes\Shapes\obj\Debug\Shapes.pdb
