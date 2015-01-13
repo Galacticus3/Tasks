@@ -1,0 +1,9 @@
+F:\1\Employee\Employee\bin\Debug\Employee.exe.config
+F:\1\Employee\Employee\bin\Debug\Employee.exe
+F:\1\Employee\Employee\bin\Debug\Employee.pdb
+F:\1\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+F:\1\Employee\Employee\obj\Debug\Employee.exe
+F:\1\Employee\Employee\obj\Debug\Employee.pdb
+E:\ProfectsCatHome\TaskHome\Tasks\Employee\Employee\bin\Debug\Employee.exe.config
+E:\ProfectsCatHome\TaskHome\Tasks\Employee\Employee\obj\Debug\Employee.exe
+E:\ProfectsCatHome\TaskHome\Tasks\Employee\Employee\obj\Debug\Employee.pdb

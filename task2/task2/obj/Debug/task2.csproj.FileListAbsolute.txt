@@ -20,3 +20,6 @@ C:\Users\rlytvyn\Documents\GitHub\TaskHome\task2\task2\obj\Debug\task2.csprojRes
 C:\Users\rlytvyn\Documents\GitHub\TaskHome\task2\task2\obj\Debug\task2.Form1.resources
 C:\Users\rlytvyn\Documents\GitHub\TaskHome\task2\task2\obj\Debug\task2.Properties.Resources.resources
 C:\Users\rlytvyn\Documents\GitHub\TaskHome\task2\task2\obj\Debug\task2.csproj.GenerateResource.Cache
+E:\ProfectsCatHome\TaskHome\Tasks\task2\task2\bin\Debug\task2.exe.config
+E:\ProfectsCatHome\TaskHome\Tasks\task2\task2\obj\Debug\task2.exe
+E:\ProfectsCatHome\TaskHome\Tasks\task2\task2\obj\Debug\task2.pdb

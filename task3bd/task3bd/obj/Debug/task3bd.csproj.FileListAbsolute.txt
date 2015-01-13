@@ -9,3 +9,6 @@ E:\ProfectsCatHome\TaskHome\task3bd\task3bd\obj\Debug\task3bd.Properties.Resourc
 E:\ProfectsCatHome\TaskHome\task3bd\task3bd\obj\Debug\task3bd.csproj.GenerateResource.Cache
 E:\ProfectsCatHome\TaskHome\task3bd\task3bd\obj\Debug\task3bd.exe
 E:\ProfectsCatHome\TaskHome\task3bd\task3bd\obj\Debug\task3bd.pdb
+E:\ProfectsCatHome\TaskHome\Tasks\task3bd\task3bd\bin\Debug\task3bd.exe.config
+E:\ProfectsCatHome\TaskHome\Tasks\task3bd\task3bd\obj\Debug\task3bd.exe
+E:\ProfectsCatHome\TaskHome\Tasks\task3bd\task3bd\obj\Debug\task3bd.pdb
