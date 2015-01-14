@@ -44,6 +44,17 @@ namespace Employee
             Employee.BenefitPackage2.BenefitPackageLevel myBenefitLebel = Employee.BenefitPackage2.BenefitPackageLevel.Platinum;
             Console.WriteLine("Status: {0}", myBenefitLebel);
 
+        //использование неявного и явного приведения классов
+            //Manager тоже "является" Employee
+            Employee moon = new Manager("Moon", 33, 444, 5000, "555-55-555", 66); //Manager наследник от Employee
+            //PTSalesPerson "является" SalesPerson
+            SalesPerson jill = new PTSalesPerson("Jill", 22, 321, 4000, "666-66-666", 77); //PTSalesPerson наследник от SalesPerson
+            //В этот метод "static void FirePerson (Employee emp) {...}" можно передавать любого наследника Employee
+            //напр: FirePerson(monn); FirePerson(jill);
+            object frank = new Manager("Frank", 30, 92, 103200, "333-23-333", 8000);  // object - это самый базовый клас
+            // FirePerson(frank) - ошибка!
+            // FirePerson((Manager)frank) - правильно! //явное приведение классов
+            
             Console.ReadLine();
         } 
 

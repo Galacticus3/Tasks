@@ -1,0 +1,6 @@
+E:\ProfectsCatHome\TaskHome\Tasks\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+E:\ProfectsCatHome\TaskHome\Tasks\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+E:\ProfectsCatHome\TaskHome\Tasks\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+E:\ProfectsCatHome\TaskHome\Tasks\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.csprojResolveAssemblyReference.cache
+E:\ProfectsCatHome\TaskHome\Tasks\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+E:\ProfectsCatHome\TaskHome\Tasks\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.pdb

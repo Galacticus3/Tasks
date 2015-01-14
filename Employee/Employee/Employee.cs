@@ -56,6 +56,11 @@ namespace Employee
             Console.WriteLine("SSN: {0}", empSSN);
             Console.WriteLine("Pay: {0}", currPay);
         }
+
+        //Уволить сотрудника
+        static void FirePerson (Employee emp) { }
+
+
         // Метод доступа (метод get)
         public string GetName()
         {

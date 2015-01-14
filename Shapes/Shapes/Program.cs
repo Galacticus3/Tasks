@@ -23,7 +23,12 @@ namespace Shapes
             {
                 s.Draw();
             }
-             
+            Console.WriteLine("-----------------------------------");
+            //Здесь вызывается метод Draw из класса ThreeDCircle
+            ThreeDCircle o = new ThreeDCircle();
+            o.Draw();
+            //Здесь вызывается метод Draw() родителя!
+            ((Circle)o).Draw();
             Console.ReadLine();
         }
     }
