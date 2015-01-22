@@ -1,0 +1,6 @@
+E:\ProfectsCatHome\TaskHome\Tasks\PetShope\PetShope\bin\Debug\PetShope.exe.config
+E:\ProfectsCatHome\TaskHome\Tasks\PetShope\PetShope\bin\Debug\PetShope.exe
+E:\ProfectsCatHome\TaskHome\Tasks\PetShope\PetShope\bin\Debug\PetShope.pdb
+E:\ProfectsCatHome\TaskHome\Tasks\PetShope\PetShope\obj\Debug\PetShope.csprojResolveAssemblyReference.cache
+E:\ProfectsCatHome\TaskHome\Tasks\PetShope\PetShope\obj\Debug\PetShope.exe
+E:\ProfectsCatHome\TaskHome\Tasks\PetShope\PetShope\obj\Debug\PetShope.pdb

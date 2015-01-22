@@ -1,0 +1,6 @@
+E:\ProfectsCatHome\TaskHome\Tasks\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+E:\ProfectsCatHome\TaskHome\Tasks\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csprojResolveAssemblyReference.cache
+E:\ProfectsCatHome\TaskHome\Tasks\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe
+E:\ProfectsCatHome\TaskHome\Tasks\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.pdb
+E:\ProfectsCatHome\TaskHome\Tasks\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
+E:\ProfectsCatHome\TaskHome\Tasks\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb
