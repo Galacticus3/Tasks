@@ -15,7 +15,7 @@ namespace PetShope
         public override void Introduce()
         {
             base.Introduce();
-            Console.Write(" I am a cat");
+            Console.Write("I am a cat\n");
         }
     }
 }

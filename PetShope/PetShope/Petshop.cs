@@ -23,15 +23,17 @@ namespace PetShope
             Console.WriteLine("\nI am {0} of {1}",Name,Breed);
         }
 
-        public virtual void AddPet(string name, string breed)
+        public static void AddPet(Petshop p, List<Petshop> ListAll)
         {
-            this.Name = name;
-            this.Breed = breed;
+            ListAll.Add(p);
         }
         
-        public void IntroduceAll()
+        public static void IntroduceAll(List<Petshop> ListAll)
         {
-         
+           foreach (Petshop p in ListAll) 
+           {
+               p.Introduce(); 
+           }
         }
         
         public string petName
