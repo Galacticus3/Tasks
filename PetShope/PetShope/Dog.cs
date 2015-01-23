@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PetShope
 {
-    class Dog : Petshop
+    class Dog : Enimals
     {
         public Dog() { }
         public Dog(string name, string breed)
@@ -15,7 +15,7 @@ namespace PetShope
         public override void Introduce()
         {
             base.Introduce();
-            Console.Write(" I am a dog\n");
+            Console.Write("I am a dog\n");
         }
     }
 }

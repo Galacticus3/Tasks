@@ -18,7 +18,7 @@ namespace PetShope
             Write short code to demonstrate your solution. Your code should include class (interface) aggregation, inheritance, 
             should use .NET BCL collections or generics, should implement exception handling*/
             Console.WriteLine("**** Fun with pets ****\n");
-            List<Petshop> Pets = new List<Petshop>();
+            List<Enimals> Pets = new List<Enimals>();
            
             Cat cat1 = new Cat();
             cat1.petBreed = "housecat";
