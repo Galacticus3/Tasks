@@ -18,26 +18,26 @@ namespace PetShope
             Write short code to demonstrate your solution. Your code should include class (interface) aggregation, inheritance, 
             should use .NET BCL collections or generics, should implement exception handling*/
             Console.WriteLine("**** Fun with pets ****\n");
-            List<Enimals> Pets = new List<Enimals>();
+            Petshop pet = new Petshop();
            
             Cat cat1 = new Cat();
             cat1.petBreed = "housecat";
             cat1.petName = "Vasya";
             //Pets.Add(cat1);
-            Petshop.AddPet(cat1, Pets);
+            pet.AddPet(cat1);
             cat1.Introduce();
 
             Cat cat2 = new Cat("Kolya","streetcat");
-            Petshop.AddPet(cat2, Pets);
+            pet.AddPet(cat2);
             cat2.Introduce();
 
             Dog dog1 = new Dog("Sharik", "streetdog");
             //Pets.Add(new Dog("SHarik", "streetdog")); // тоже классный способ добавить в List<>
-            Petshop.AddPet(dog1, Pets);
+            pet.AddPet(dog1);
 
             Console.WriteLine("\n------------All pets in petshop-------------");
             //foreach (Petshop p in Pets) { p.Introduce(); }
-            Petshop.IntroduceAll(Pets);
+            pet.IntroduceAll();
 
             Console.ReadLine();
         }

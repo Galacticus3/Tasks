@@ -8,14 +8,20 @@ namespace PetShope
 {
     class Petshop
     {
-        public static void AddPet(Enimals p, List<Enimals> ListAll)
+        List<Enimals> Pets;
+        public Petshop()
         {
-            ListAll.Add(p);
+            List<Enimals> Pets = new List<Enimals>();
+        }
+        public void AddPet(Enimals p)
+        {
+            Pets.Add(p);
+            //ListAll.Add(p);
         }
 
-        public static void IntroduceAll(List<Enimals> ListAll)
+        public void IntroduceAll()
         {
-            foreach (Enimals p in ListAll)
+            foreach (Enimals p in Pets)
             {
                 p.Introduce();
             }
